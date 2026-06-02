@@ -1,0 +1,1001 @@
+person_id,id,name,character_name,role
+59401,ts20945,"Joe Besser",Joe,ACTOR
+31460,ts20945,"Moe Howard",Moe,ACTOR
+31461,ts20945,"Larry Fine",Larry,ACTOR
+21174,tm19248,"Buster Keaton","Johnny Gray",ACTOR
+28713,tm19248,"Marion Mack","Annabelle Lee",ACTOR
+28714,tm19248,"Glen Cavender","Captain Anderson",ACTOR
+28715,tm19248,"Jim Farley","General Thatcher",ACTOR
+27348,tm19248,"Frederick Vroom","A Southern General",ACTOR
+28716,tm19248,"Charles Henry Smith","Annabelle's Father",ACTOR
+28718,tm19248,"Joe Keaton","Union General",ACTOR
+28721,tm19248,"Al St. John","Officer on Horseback (uncredited)",ACTOR
+28717,tm19248,"Frank Barnes","Annabelle's Brother",ACTOR
+28719,tm19248,"Mike Donlin","Union General",ACTOR
+28720,tm19248,"Tom Nawn","Union General",ACTOR
+28722,tm19248,"Jimmy Bryant","Raider (uncredited)",ACTOR
+28723,tm19248,"Budd Fine","Raider (uncredited)",ACTOR
+28724,tm19248,"Ray Hanford","Raider (uncredited)",ACTOR
+28725,tm19248,"Charles Phillips","Raider (uncredited)",ACTOR
+28726,tm19248,"Eddie Foster","Union Railroad Fireman (uncredited)",ACTOR
+28727,tm19248,"Frank Hagney","Confederate Recruiter (uncredited)",ACTOR
+28728,tm19248,"Jack Hanlon","Bit Part (uncredited)",ACTOR
+28729,tm19248,"Edward Hearn","Union Officer (uncredited)",ACTOR
+28730,tm19248,"Hilliard Karr","Soldier (uncredited)",ACTOR
+28731,tm19248,"Louis Lewyn","Soldier (uncredited)",ACTOR
+28733,tm19248,"Elgin Lessley","Union General Who Gives Command to Cross Bridge (uncredited)",ACTOR
+28732,tm19248,"Clyde Bruckman",,DIRECTOR
+21174,tm19248,"Buster Keaton",,DIRECTOR
+29993,tm82253,"Myrna Loy","Milly Stephenson",ACTOR
+29992,tm82253,"Fredric March","Al Stephenson",ACTOR
+29994,tm82253,"Dana Andrews","Fred Derry",ACTOR
+21803,tm82253,"Teresa Wright","Peggy Stephenson",ACTOR
+29995,tm82253,"Virginia Mayo","Marie Derry",ACTOR
+13682,tm82253,"Cathy O'Donnell","Wilma Cameron",ACTOR
+29996,tm82253,"Hoagy Carmichael","Butch Engle",ACTOR
+29997,tm82253,"Harold Russell","Homer Parrish",ACTOR
+27564,tm82253,"Gladys George","Hortense Derry",ACTOR
+29998,tm82253,"Roman Bohnen","Pat Derry",ACTOR
+15258,tm82253,"Ray Collins","Mr. Milton",ACTOR
+29999,tm82253,"Minna Gombell","Mrs. Parrish",ACTOR
+30000,tm82253,"Walter Baldwin","Mr. Parrish",ACTOR
+30001,tm82253,"Steve Cochran","Cliff Scully",ACTOR
+30002,tm82253,"Dorothy Adams","Mrs. Cameron",ACTOR
+28777,tm82253,"Don Beddoe","Mr. Cameron",ACTOR
+567781,tm82253,"Marlene Aames","Luella Parrish",ACTOR
+45075,tm82253,"Charles Halton",Prew,ACTOR
+37831,tm82253,"Ray Teal","Mr. Mollett",ACTOR
+16783,tm82253,"Howland Chamberlain",Thorpe,ACTOR
+296554,tm82253,"Dean White",Novak,ACTOR
+15259,tm82253,"Erskine Sanford",Bullard,ACTOR
+564517,tm82253,"Michael Hall","Rob Stephenson",ACTOR
+316368,tm82253,"Victor Cutler","Woody Merrill",ACTOR
+128931,tm82253,"Claire Du Brey","Mrs. Talburt - Perfume Customer (uncredited)",ACTOR
+25663,tm82253,"Pat Flaherty","Salvage Foreman (uncredited)",ACTOR
+39453,tm82253,"Jackie Jackson","A Boy (uncredited)",ACTOR
+21359,tm82253,"William H. O'Brien","Nightclub Waiter (uncredited)",ACTOR
+22474,tm82253,"Bert Stevens","Man at Airport/Dinner Guest (uncredited)",ACTOR
+1479923,tm82253,"Marion Gray",,ACTOR
+13717,tm82253,"William Wyler",,DIRECTOR
+25018,tm83884,"Cary Grant","Walter Burns",ACTOR
+28500,tm83884,"Rosalind Russell","Hildy Johnson",ACTOR
+12463,tm83884,"Ralph Bellamy","Bruce Baldwin",ACTOR
+28501,tm83884,"Gene Lockhart","Sheriff Hartwell",ACTOR
+28506,tm83884,"Helen Mack","Mollie Malloy",ACTOR
+27185,tm83884,"Porter Hall",Murphy,ACTOR
+28510,tm83884,"Ernest Truex",Bensinger,ACTOR
+13325,tm83884,"Cliff Edwards",Endicott,ACTOR
+28502,tm83884,"Clarence Kolb",Mayor,ACTOR
+20167,tm83884,"Roscoe Karns",McCue,ACTOR
+28503,tm83884,"Frank Jenks",Wilson,ACTOR
+23834,tm83884,"Regis Toomey",Sanders,ACTOR
+28504,tm83884,"Abner Biberman",Louie,ACTOR
+28505,tm83884,"Frank Orth",Duffy,ACTOR
+14710,tm83884,"John Qualen","Earl Williams",ACTOR
+28507,tm83884,"Alma Kruger","Mrs. Baldwin",ACTOR
+6137,tm83884,"Billy Gilbert","Joe Pettibone",ACTOR
+28508,tm83884,"Pat West","Warden Cooley",ACTOR
+28509,tm83884,"Edwin Maxwell","Dr. Egelhoffer",ACTOR
+13331,tm83884,"Irving Bacon","Gus (uncredited)",ACTOR
+27216,tm83884,"Wade Boteler","Mike (uncredited)",ACTOR
+27217,tm83884,"Harry C. Bradley","Insurance Doctor (uncredited)",ACTOR
+28511,tm83884,"Wheaton Chambers","Elevator Passenger (uncredited)",ACTOR
+27234,tm83884,"Edmund Cobb","Cop (uncredited)",ACTOR
+27196,tm83884,"Ann Doran","Newspaper Office Worker (uncredited)",ACTOR
+28512,tm83884,"Ralph Dunn","Plainclothesman (uncredited)",ACTOR
+28513,tm83884,"Earl Dwire","Pete Davis (uncredited)",ACTOR
+25663,tm83884,"Pat Flaherty","Frank the Policeman (uncredited)",ACTOR
+27262,tm83884,"Jack Gardner","Elevator Passenger (uncredited)",ACTOR
+28514,tm83884,"Eddie Hart","Carl the Plainclothesman (uncredited)",ACTOR
+28515,tm83884,"Marion Martin","Evangeline (uncredited)",ACTOR
+22485,tm83884,"Frank McLure","Newsman (uncredited)",ACTOR
+27306,tm83884,"James Millican","Tim (uncredited)",ACTOR
+27310,tm83884,"Gene Morgan","Gene (uncredited)",ACTOR
+27191,tm83884,"Delmar Watson","Skinny (uncredited)",ACTOR
+23839,tm83884,"Howard Hawks",,DIRECTOR
+14701,tm56584,"Humphrey Bogart","Dixon 'Dix' Steele",ACTOR
+39498,tm56584,"Gloria Grahame","Laurel Gray",ACTOR
+57463,tm56584,"Frank Lovejoy","Det. Sgt. Brub Nicolai",ACTOR
+57464,tm56584,"Carl Benton Reid","Capt. Lochner",ACTOR
+57465,tm56584,"Art Smith","Agent Mel Lippman",ACTOR
+57466,tm56584,"Jeff Donnell","Sylvia Nicolai",ACTOR
+57467,tm56584,"Martha Stewart","Mildred Atkinson",ACTOR
+29629,tm56584,"Robert Warwick","Charlie Waterman",ACTOR
+57468,tm56584,"Morris Ankrum","Lloyd Barnes",ACTOR
+57469,tm56584,"William Ching","Ted Barton",ACTOR
+57470,tm56584,"Steven Geray","Paul the Headwaiter",ACTOR
+57471,tm56584,"Hadda Brooks","Nightclub Singer",ACTOR
+153264,tm56584,"Ruth Gillette","Martha the Masseuse (uncredited)",ACTOR
+541599,tm56584,"Michael Romanoff","Prince Romanoff (uncredited)",ACTOR
+137623,tm56584,"Ruth Warren","Effie the Cleaning Lady (uncredited)",ACTOR
+49085,tm56584,"Harold Miller","Nightclub Patron",ACTOR
+29571,tm56584,"James Arness","Young Detective",ACTOR
+132902,tm56584,"June Vincent","Actress In Convertible",ACTOR
+14166,tm56584,"Bess Flowers","Restaurant Patron",ACTOR
+35387,tm56584,"Nicholas Ray",,DIRECTOR
+25654,tm160494,"Claire Trevor",Dallas,ACTOR
+25629,tm160494,"John Wayne","The Ringo Kid",ACTOR
+11109,tm160494,"Andy Devine",Buck,ACTOR
+32170,tm160494,"John Carradine",Hatfield,ACTOR
+13301,tm160494,"Thomas Mitchell","Doc Josiah Boone",ACTOR
+71547,tm160494,"Louise Platt","Lucy Mallory",ACTOR
+42491,tm160494,"George Bancroft","Marshal Curly Wilcox",ACTOR
+45535,tm160494,"Donald Meek","Samuel Peacock",ACTOR
+71548,tm160494,"Berton Churchill","Ellsworth H. Gatewood",ACTOR
+71549,tm160494,"Tim Holt","Lt. Blanchard",ACTOR
+13423,tm160494,"Tom Tyler","Luke Plummer",ACTOR
+71550,tm160494,"Chief John Big Tree","Indian Scout (uncredited)",ACTOR
+13327,tm160494,"Yakima Canutt","Cavalry Scout (uncredited)",ACTOR
+22006,tm160494,"Francis Ford","Billy Pickett (uncredited)",ACTOR
+27573,tm160494,"William Hopper","Sergeant (uncredited)",ACTOR
+71552,tm160494,"Chris-Pin Martin","Chris (uncredited)",ACTOR
+71551,tm160494,"Paul McVey","Pony Express Agent (uncredited)",ACTOR
+41718,tm160494,"Jack Pennick","Bartender in Tonto (uncredited)",ACTOR
+27340,tm160494,"Harry Tenbrook","Telegraph Operator (uncredited)",ACTOR
+71554,tm160494,Whitehorse,"Indian Chief (uncredited)",ACTOR
+38996,tm160494,"Hank Worden","Cavalryman Extra (uncredited)",ACTOR
+58276,tm160494,"Dorothy Appleby","Girl in Saloon (uncredited)",ACTOR
+22001,tm160494,"Ted Billings","Bit Part (uncredited)",ACTOR
+71555,tm160494,"Wiggie Blowne","Bit Part (uncredited)",ACTOR
+15265,tm160494,"Danny Borzage",(uncredited),ACTOR
+71556,tm160494,"Ed Brady","Lordsburg Saloon Owner (uncredited)",ACTOR
+71557,tm160494,"Fritzi Brunette","Bit Part (uncredited)",ACTOR
+71558,tm160494,"Nora Cecil","Boone's Landlady (uncredited)",ACTOR
+28655,tm160494,"Steve Clemente","Bit (uncredited)",ACTOR
+71559,tm160494,"Bill Cody","Rancher (uncredited)",ACTOR
+22003,tm160494,"Jack Curtis","Bartender (uncredited)",ACTOR
+71560,tm160494,"Marga Ann Deighton","Mrs. Pickett (uncredited)",ACTOR
+71561,tm160494,"Patricia Doyle","Bit Part (uncredited)",ACTOR
+71562,tm160494,"Tex Driscoll","Bit Part (uncredited)",ACTOR
+71563,tm160494,"Johnny Eckert","Small Role (uncredited)",ACTOR
+22477,tm160494,"Franklyn Farnum","Deputy Frank (uncredited)",ACTOR
+57389,tm160494,"Brenda Fowler","Mrs. Gatewood (uncredited)",ACTOR
+57390,tm160494,"Helen Gibson","Girl in Saloon (uncredited)",ACTOR
+27575,tm160494,"Robert Homans","Ed the Editor (uncredited)",ACTOR
+13391,tm160494,"Si Jenks","Bartender (uncredited)",ACTOR
+71564,tm160494,"Cornelius Keefe","Capt. Whitney (uncredited)",ACTOR
+71565,tm160494,"Florence Lake","Nancy Whitney (uncredited)",ACTOR
+71566,tm160494,"Al Lee","Small Role (uncredited)",ACTOR
+71567,tm160494,"Duke R. Lee","Lordsburg Sheriff (uncredited)",ACTOR
+71568,tm160494,"Theodore Lorch","Lordsburg Express Agent (uncredited)",ACTOR
+69971,tm160494,"Jim Mason","Tonto Express Agent Jim (uncredited)",ACTOR
+41712,tm160494,"Louis Mason","Tonto Sheriff (uncredited)",ACTOR
+62993,tm160494,"Merrill McCormick","Ogler (uncredited)",ACTOR
+71569,tm160494,"J.P. McGowan",(uncredited),ACTOR
+41713,tm160494,"Walter McGrail","Capt. Sickel (uncredited)",ACTOR
+71570,tm160494,"Jack Mohr","Small Role (uncredited)",ACTOR
+71571,tm160494,"Kent Odell","Billy Pickett Jr. (uncredited)",ACTOR
+71572,tm160494,"Artie Ortego","Lordsburg Bar Patron (uncredited)",ACTOR
+71573,tm160494,"Vester Pegg","Hank Plummer (uncredited)",ACTOR
+71574,tm160494,"Chris Phillips","Small Role (uncredited)",ACTOR
+71575,tm160494,"Joe Rickson","Ike Plummer (uncredited)",ACTOR
+71576,tm160494,"Buddy Roosevelt","Rancher (uncredited)",ACTOR
+71577,tm160494,"Mickey Simpson",(uncredited),ACTOR
+71578,tm160494,"Chuck Stubbs",(uncredited),ACTOR
+71579,tm160494,"Leonard Trainor","Townsman (uncredited)",ACTOR
+71580,tm160494,"Mary Kathleen Walker","Lucy's Infant (uncredited)",ACTOR
+71581,tm160494,"Bryant Washburn","Capt. Simmons (uncredited)",ACTOR
+573361,tm160494,"Elvira RÃ­os","Yakima (uncredited)",ACTOR
+25637,tm160494,"John Ford",,DIRECTOR
+25020,tm87233,"James Stewart","George Bailey",ACTOR
+26190,tm87233,"Donna Reed","Mary Hatch",ACTOR
+25653,tm87233,"Lionel Barrymore","Mr. Potter",ACTOR
+13301,tm87233,"Thomas Mitchell","Uncle Billy",ACTOR
+34171,tm87233,"Henry Travers",Clarence,ACTOR
+27179,tm87233,"Beulah Bondi","Mrs. Bailey",ACTOR
+13381,tm87233,"Frank Faylen",Ernie,ACTOR
+13323,tm87233,"Ward Bond",Bert,ACTOR
+39498,tm87233,"Gloria Grahame",Violet,ACTOR
+27178,tm87233,"H.B. Warner","Mr. Gower",ACTOR
+99223,tm87233,"Frank Albertson","Sam Wainwright",ACTOR
+58067,tm87233,"Todd Karns","Harry Bailey",ACTOR
+47762,tm87233,"Samuel S. Hinds","Pa Bailey",ACTOR
+133886,tm87233,"Mary Treen","Cousin Tilly",ACTOR
+133887,tm87233,"Virginia Patton","Ruth Dakin",ACTOR
+108232,tm87233,"Charles Williams","Cousin Eustace",ACTOR
+34181,tm87233,"Sarah Edwards","Mrs. Hatch",ACTOR
+14743,tm87233,"William Edmunds","Mr. Martini",ACTOR
+106286,tm87233,"Lillian Randolph",Annie,ACTOR
+133888,tm87233,"Argentina Brunetti","Mrs. Martini",ACTOR
+41682,tm87233,"Robert J. Anderson","Little George",ACTOR
+133889,tm87233,"Ronnie Ralph","Little Sam",ACTOR
+133890,tm87233,"Jean Gale","Little Mary",ACTOR
+132909,tm87233,"Jeanine Ann Roose","Little Violet",ACTOR
+132910,tm87233,"Danny Mummert","Little Marty Hatch",ACTOR
+50379,tm87233,"Georgie Nokes","Little Harry Bailey",ACTOR
+57481,tm87233,"Sheldon Leonard",Nick,ACTOR
+28727,tm87233,"Frank Hagney","Potter's Bodyguard",ACTOR
+132995,tm87233,"Ray Walker","Joe (Luggage Shop)",ACTOR
+27187,tm87233,"Charles Lane","Real Estate Salesman",ACTOR
+31160,tm87233,"Edward Keane","Tom (Bldg. & Loan)",ACTOR
+132911,tm87233,"Carol Coombs","The Bailey Child - Janie",ACTOR
+132912,tm87233,"Karolyn Grimes","The Bailey Child - Zuzu",ACTOR
+27195,tm87233,"Larry Simms","The Bailey Child - Pete",ACTOR
+60257,tm87233,"Jimmy Hawkins","The Bailey Child - Tommy",ACTOR
+132914,tm87233,"Jean Acker","Townswoman (uncredited)",ACTOR
+69183,tm87233,"Ernie Adams","Ed (uncredited)",ACTOR
+45692,tm87233,"Monya Andre","Elderly Woman (uncredited)",ACTOR
+27206,tm87233,"Stanley Andrews","Mr. Welch (uncredited)",ACTOR
+27209,tm87233,"Sam Ash","Nervous Banker (uncredited)",ACTOR
+133891,tm87233,"Jack Bailey","One of Vi's Suitors (uncredited)",ACTOR
+100203,tm87233,"Louise Bates","Building & Loan Depositor (uncredited)",ACTOR
+1579025,tm87233,"Beth Belden","Young Girl (uncredited)",ACTOR
+27214,tm87233,"Brooks Benedict","Military Officer in Montage (uncredited)",ACTOR
+47779,tm87233,"Joseph E. Bernard","Townsman (uncredited)",ACTOR
+27220,tm87233,"Al Bridge","Sheriff (uncredited)",ACTOR
+133892,tm87233,"Buz Buckley","Young Boy (uncredited)",ACTOR
+98666,tm87233,"Marian Carr","Jane Wainwright (uncredited)",ACTOR
+6134,tm87233,"Adriana Caselotti","Singer at Martini's (uncredited)",ACTOR
+93473,tm87233,"Lane Chandler","Policeman (uncredited)",ACTOR
+132913,tm87233,"Michael Chapin","Young George's Friend (uncredited)",ACTOR
+62985,tm87233,"Tom Chatterton","Townsman (uncredited)",ACTOR
+100212,tm87233,"Jack Cheatham","Cop Arresting Violet (uncredited)",ACTOR
+108841,tm87233,"Harry Cheshire","Dr. Campbell (uncredited)",ACTOR
+36168,tm87233,"Edward Clark","Building & Loan Board Member (uncredited)",ACTOR
+32290,tm87233,"Tom Coleman","Building & Loan Customer (uncredited)",ACTOR
+1060,tm87233,"Ellen Corby","Ms. Davis (uncredited)",ACTOR
+1059535,tm87233,"Bryn Davis","Elderly Woman (uncredited)",ACTOR
+27244,tm87233,"Lew Davis","High School Teacher at Poolside (uncredited)",ACTOR
+137512,tm87233,"Harry Denny",(uncredited),ACTOR
+58335,tm87233,"Helen Dickson","Woman at Graduation Dance (uncredited)",ACTOR
+27188,tm87233,"Dick Elliott","Man on Porch (uncredited)",ACTOR
+95865,tm87233,"Tom Fadden","Tollhouse Keeper (uncredited)",ACTOR
+137513,tm87233,"Frank Fenton","Violet's Boyfriend (uncredited)",ACTOR
+27258,tm87233,"Eddie Fetherston","Horace (uncredited)",ACTOR
+137455,tm87233,"Sam Flint","Relieved Banker in Potter's Office (uncredited)",ACTOR
+133893,tm87233,"Lee Frederick",(uncredited),ACTOR
+49075,tm87233,"Dick Gordon","Photographer with Sheriff (uncredited)",ACTOR
+79658,tm87233,"Jack Gordon","Bar Patron (uncredited)",ACTOR
+22487,tm87233,"Herschel Graham","Townsman (uncredited)",ACTOR
+63894,tm87233,"Joseph Granby","Elderly Man (voice) (uncredited)",ACTOR
+45075,tm87233,"Charles Halton","Carter (uncredited)",ACTOR
+579476,tm87233,"Carl Eric Hansen",(uncredited),ACTOR
+41679,tm87233,"Herbert Heywood","Building & Loan Depositor (uncredited)",ACTOR
+133894,tm87233,"Harry Holman","Mr. Partridge (uncredited)",ACTOR
+22469,tm87233,"Art Howard","Building & Loan Board Member (uncredited)",ACTOR
+133895,tm87233,"Bert Howard","Building & Loan Board Member (uncredited)",ACTOR
+14756,tm87233,"Arthur Stuart Hull","Mr. Randall (uncredited)",ACTOR
+55109,tm87233,"John Indrisano","Man in Fantasy (uncredited)",ACTOR
+27280,tm87233,"Eddie Kane","Building & Loan Depositor (uncredited)",ACTOR
+133896,tm87233,"Carl Kent","Townsman (uncredited)",ACTOR
+20176,tm87233,"Milton Kibbee","Building & Loan Board Member (uncredited)",ACTOR
+36165,tm87233,"Effie Laird","Townswoman (uncredited)",ACTOR
+71393,tm87233,"Mike Lally","Building & Loan Customer (uncredited)",ACTOR
+133897,tm87233,"Harold Landon","Marty Hatch (uncredited)",ACTOR
+133898,tm87233,"Meade 'Lux' Lewis","Pianist in Nick's Place (uncredited)",ACTOR
+133899,tm87233,"Jack Lomas","Bar Patron (uncredited)",ACTOR
+58854,tm87233,"J. Farrell MacDonald","Man Whose Grandfather Planted Tree (uncredited)",ACTOR
+22472,tm87233,"Wilbur Mack","Building & Loan Customer (uncredited)",ACTOR
+133900,tm87233,"Charles Meakin","Elderly Man (uncredited)",ACTOR
+1579092,tm87233,"Priscilla Montgomery","Student in Gym (uncredited)",ACTOR
+27201,tm87233,"Bert Moorhouse","Man with Sheriff (uncredited)",ACTOR
+651274,tm87233,"Evelyn Moriarty","Bar Patron (uncredited)",ACTOR
+41705,tm87233,"Philip Morris","Building & Loan Customer (uncredited)",ACTOR
+79588,tm87233,"George Noisom","School Dancer (uncredited)",ACTOR
+133901,tm87233,"Bob O'Connor","Bar Patron (uncredited)",ACTOR
+27315,tm87233,"Frank O'Connor","Military Officer in Montage (uncredited)",ACTOR
+1579136,tm87233,"Lynn O'Leary-Jameson","Infant Janie Bailey (uncredited)",ACTOR
+6144,tm87233,"Moroni Olsen","Senior Angel (voice) (uncredited)",ACTOR
+105983,tm87233,"Garry Owen","Bill-Poster (uncredited)",ACTOR
+113387,tm87233,"Netta Packer","Elderly Woman (uncredited)",ACTOR
+74817,tm87233,"Franklin Parker","Photographer / Reporter (uncredited)",ACTOR
+13410,tm87233,"Suzanne Ridgeway","Nick's Waitress (uncredited)",ACTOR
+118672,tm87233,"Mark Roberts","Mickey (uncredited)",ACTOR
+45710,tm87233,"Constantine Romanoff","Bar Patron (uncredited)",ACTOR
+47812,tm87233,"Cy Schindell","Nick's Bouncer (uncredited)",ACTOR
+57721,tm87233,"Almira Sessions","Potter's Secretary (uncredited)",ACTOR
+132915,tm87233,"Cedric Stevens","Townsman (uncredited)",ACTOR
+57861,tm87233,"Brick Sullivan","Man in Fantasy (uncredited)",ACTOR
+27336,tm87233,"Charles Sullivan","Nick's Bartender (uncredited)",ACTOR
+36507,tm87233,"Carl Switzer","Freddie Othello (uncredited)",ACTOR
+36186,tm87233,"Max Wagner","Cashier / Nick's Assistant Bouncer (uncredited)",ACTOR
+47833,tm87233,"Larry Wheat","Building & Loan Board Member (uncredited)",ACTOR
+20172,tm87233,"Charles C. Wilson","Charlie (uncredited)",ACTOR
+20177,tm87233,"Frank Capra",,DIRECTOR
+129611,tm19424,"Tom Neal","Al Roberts",ACTOR
+129610,tm19424,"Ann Savage",Vera,ACTOR
+129612,tm19424,"Claudia Drake","Sue Harvey",ACTOR
+72430,tm19424,"Edmund MacDonald","Charles Haskell Jr.",ACTOR
+26196,tm19424,"Tim Ryan","Diner Owner",ACTOR
+57722,tm19424,"Esther Howard",Holly,ACTOR
+129614,tm19424,"Pat Gleason",Joe,ACTOR
+102596,tm19424,"Edgar G. Ulmer",,DIRECTOR
+53491,tm116781,"William Powell",Godfrey,ACTOR
+45070,tm116781,"Carole Lombard","Irene Bullock",ACTOR
+127171,tm116781,"Alice Brady","Angelica Bullock",ACTOR
+107577,tm116781,"Gail Patrick","Cornelia Bullock",ACTOR
+27180,tm116781,"Eugene Pallette","Alexander Bullock",ACTOR
+127172,tm116781,"Jean Dixon",Molly,ACTOR
+36595,tm116781,"Alan Mowbray","Tommy Gray",ACTOR
+47760,tm116781,"Mischa Auer",Carlo,ACTOR
+25663,tm116781,"Pat Flaherty","Mike Flaherty",ACTOR
+127173,tm116781,"Robert Light","Faithful George",ACTOR
+14166,tm116781,"Bess Flowers","Mrs. Merriweather (uncredited)",ACTOR
+27201,tm116781,"Bert Moorhouse","Card Playing Party Guest (uncredited)",ACTOR
+57717,tm116781,"Franklin Pangborn","Guthrie (uncredited)",ACTOR
+132394,tm116781,"Grady Sutton","Charlie Van Rumple (uncredited)",ACTOR
+92015,tm116781,"Jane Wyman","Socialite (uncredited)",ACTOR
+69183,tm116781,"Ernie Adams","Forgotten Man (uncredited)",ACTOR
+571714,tm116781,"Jimmy Aye",,ACTOR
+33011,tm116781,"James Carlisle",,ACTOR
+83567,tm116781,"Jack Chefe",,ACTOR
+200063,tm116781,"Phyllis Crane",,ACTOR
+27258,tm116781,"Eddie Fetherston",,ACTOR
+154427,tm116781,"Grace Field",,ACTOR
+28656,tm116781,"James Flavin","Detective #2 (uncredited)",ACTOR
+98829,tm116781,"Edward Gargan",,ACTOR
+47817,tm116781,"Carlton Griffin",,ACTOR
+565190,tm116781,"David S. Horsley",,ACTOR
+41672,tm116781,"Selmer Jackson",,ACTOR
+27283,tm116781,"Richard Kipling",,ACTOR
+153512,tm116781,"Andrea Leeds","Socialite at Scavenger Hunt (uncredited)",ACTOR
+79581,tm116781,"Ethelreda Leopold","Socialite (uncredited)",ACTOR
+576630,tm116781,"Reginald Mason",,ACTOR
+21787,tm116781,"Louis Natheaux",,ACTOR
+153841,tm116781,"Bob Perry",,ACTOR
+582007,tm116781,"Katherine Perry",,ACTOR
+71901,tm116781,"Albert Petit",,ACTOR
+134049,tm116781,"Jean Rogers","Socialite (uncredited)",ACTOR
+58342,tm116781,"Ronald R. Rondell",,ACTOR
+154517,tm116781,"Arthur Singley",,ACTOR
+27331,tm116781,"Larry Steers","Nightclub Patron (uncredited)",ACTOR
+74953,tm116781,"Russell Wade",,ACTOR
+153265,tm116781,"William Wagner",,ACTOR
+575393,tm116781,"Arthur Wanzer",,ACTOR
+153696,tm116781,"Harley Wood",,ACTOR
+127174,tm116781,"Gregory La Cava",,DIRECTOR
+153696,tm112005,"Harley Wood","Burma Roberts aka 'Blondie'",ACTOR
+134183,tm112005,"Hugh McArthur","Dick Collier",ACTOR
+45697,tm112005,"Paul Ellis","Tony Santello",ACTOR
+576674,tm112005,"Bill Woods",Detective,ACTOR
+100222,tm112005,"Juanita Fletcher","Mrs. Roberts",ACTOR
+47794,tm112005,"Gloria Browne","Gloria Stewart - The Child",ACTOR
+45694,tm112005,"Symona Boniface",Helen,ACTOR
+33405,tm112005,"Hal Taggart","Helen's Husband",ACTOR
+1305735,tm112005,"William C. Thompson","Waterfront-Raid Detective (uncredited)",ACTOR
+152676,tm112005,"Dwain Esper",,DIRECTOR
+28774,tm22806,"Lillian Gish","The Woman Who Rocks the Cradle",ACTOR
+41680,tm22806,"Mae Marsh","The Dear One (Modern Story)",ACTOR
+55726,tm22806,"Robert Harron","The Boy (Modern Story)",ACTOR
+55727,tm22806,"F.A. Turner","The Girl's Father (Modern Story)",ACTOR
+55728,tm22806,"Sam De Grasse","Arthur Jenkins (Modern Story)",ACTOR
+27289,tm22806,"Vera Lewis","Mary T. Jenkins (Modern Story)",ACTOR
+55730,tm22806,"Lillian Langdon","Mary, the Mother (Judean Story)",ACTOR
+55729,tm22806,"Olga Grey","Mary Magdalene (Judean Story)",ACTOR
+55731,tm22806,"Erich von Ritzau","First Pharisee (Judean Story)",ACTOR
+55732,tm22806,"Bessie Love","The Bride of Cana (Judean Story)",ACTOR
+55733,tm22806,"Margery Wilson","Brown Eyes (French Story)",ACTOR
+27180,tm22806,"Eugene Pallette","Prosper Latour (French Story)",ACTOR
+55734,tm22806,"Spottiswoode Aitken","Brown Eyes' Father (French Story)",ACTOR
+55735,tm22806,"Ruth Handforth","Brown Eyes' Mother (French Story)",ACTOR
+55736,tm22806,"Elmer Clifton","The Rhapsode (Babylonian Story)",ACTOR
+55738,tm22806,"Seena Owen","Princess Beloved (Attarea) (Babylonian Story)",ACTOR
+27335,tm22806,"Carl Stockdale","King Nabonidus (Babylonian Story)",ACTOR
+74193,tm22806,"Mary Alden",Uplifter,ACTOR
+586035,tm22806,"Pearl Elmore",Uplifter,ACTOR
+306700,tm22806,"Julia Mackley",Uplifter,ACTOR
+74192,tm22806,"Miriam Cooper","The Friendless One",ACTOR
+108229,tm22806,"Walter Long","The Musketeer of the Slums / Babylonian Warrior",ACTOR
+24733,tm22806,"Tom Wilson","The Kindly Policeman",ACTOR
+74194,tm22806,"Ralph Lewis","The Governor",ACTOR
+21781,tm22806,"Lloyd Ingraham","Judge of the Court",ACTOR
+569623,tm22806,"John P. McCarthy","Prison Guard",ACTOR
+14726,tm22806,"Monte Blue","The Strike Leader",ACTOR
+182731,tm22806,"Marguerite Marsh",Debutante,ACTOR
+579874,tm22806,"Edward Dillon",Crook,ACTOR
+156618,tm22806,"Billy Quirk",Bartender,ACTOR
+74200,tm22806,"Howard Gaye","Jesus Christ / Cardinal de Lorraine",ACTOR
+586733,tm22806,"William H. Brown","Father of the Bride of Cana / Warden",ACTOR
+578973,tm22806,"George Walsh","The Bridegroom of Cana",ACTOR
+42890,tm22806,"W.S. Van Dyke","Cana Wedding Guest",ACTOR
+575639,tm22806,"Allan Sears","The Mercenary",ACTOR
+586962,tm22806,"Frank Bennett","Charles IX",ACTOR
+74199,tm22806,"Maxfield Stanley","Henri III",ACTOR
+69186,tm22806,"Josephine Crowell","Catherine de MÃ©dici",ACTOR
+156615,tm22806,"Constance  Talmadge","Marguerite de Navarre / The Mountain Girl",ACTOR
+154008,tm22806,"W.E. Lawrence","Henri de Navarre",ACTOR
+74195,tm22806,"Joseph Henabery","L'amiral de Coligny / Defendant",ACTOR
+573569,tm22806,"Chandler House",Page,ACTOR
+55737,tm22806,"Alfred Paget","Prince Belshazzar",ACTOR
+51746,tm22806,"Tully Marshall","High Priest of Bel / Friend of the Musketeer",ACTOR
+584887,tm22806,"Dore Davidson","The Friendly Neighbor",ACTOR
+138547,tm22806,"Taylor N. Duncan","Captain of the Gateg / Bodyguard of the Princess Beloved",ACTOR
+156642,tm22806,"Owen Moore","Extra (uncredited)",ACTOR
+138182,tm22806,"Frank Borzage","Extra (uncredited)",ACTOR
+152749,tm22806,"Karl Brown","Extra (uncredited)",ACTOR
+24710,tm22806,"Frank Campeau","Extra (uncredited)",ACTOR
+106661,tm22806,"Constance Collier","Extra (uncredited)",ACTOR
+51911,tm22806,"Donald Crisp","Extra (uncredited)",ACTOR
+134050,tm22806,"Nigel De Brulier","Extra (uncredited)",ACTOR
+576342,tm22806,"Clarence Geldart","Extra (uncredited)",ACTOR
+63069,tm22806,"Dell Henderson","Extra (uncredited)",ACTOR
+47773,tm22806,"Russell Hicks","Extra (uncredited)",ACTOR
+584986,tm22806,"DeWolf Hopper Sr.","Extra (uncredited)",ACTOR
+21771,tm22806,"Wilfred Lucas","Extra (uncredited)",ACTOR
+56588,tm22806,"Francis McDonald","Extra (uncredited)",ACTOR
+71573,tm22806,"Vester Pegg","Extra (uncredited)",ACTOR
+206026,tm22806,"Herbert Sutch","Extra (uncredited)",ACTOR
+238109,tm22806,"Herbert Beerbohm Tree","Extra (uncredited)",ACTOR
+79611,tm22806,"King Vidor","Extra (uncredited)",ACTOR
+584957,tm22806,"Hal Wilson","Extra (uncredited)",ACTOR
+576346,tm22806,"Tammany Young","Extra (uncredited)",ACTOR
+173430,tm22806,"Sylvia Ashton","Woman at Jenkins Employees Dance (uncredited)",ACTOR
+74196,tm22806,"Jennie Lee","Woman at Jenkins Employees Dance (uncredited)",ACTOR
+74198,tm22806,"George Beranger","Second Priest of Bel (uncredited)",ACTOR
+24706,tm22806,"Kitty Bradbury","Jenkins Party Guest (uncredited)",ACTOR
+34568,tm22806,"Tod Browning","Crook (uncredited)",ACTOR
+475701,tm22806,"Frank Brownlee","The Mountain Girl's Brother (uncredited)",ACTOR
+173699,tm22806,"Kate Bruce","Old Babylonian Mother / The City Mother (uncredited)",ACTOR
+220119,tm22806,"Edward Burns","Charioteer of the Priest of Bel (uncredited)",ACTOR
+28654,tm22806,"Noble Johnson","Babylonian Soldier (uncredited)",ACTOR
+138553,tm22806,"George Fawcett","Babylonian Judge (uncredited)",ACTOR
+583759,tm22806,"Jewel Carmen","Favorite of the Harem (uncredited)",ACTOR
+207794,tm22806,"Carol Dempster","Favorite of the Harem (uncredited)",ACTOR
+106315,tm22806,"Mildred Harris","Favorite of the Harem (uncredited)",ACTOR
+585927,tm22806,"Daisy Jefferson","Favorite of the Harem (uncredited)",ACTOR
+209258,tm22806,"Carmel Myers","Favorite of the Harem (uncredited)",ACTOR
+212802,tm22806,"Eve Southern","Favorite of the Harem (uncredited)",ACTOR
+212818,tm22806,"Pauline Starke","Favorite of the Harem (uncredited)",ACTOR
+220144,tm22806,"Natalie Talmadge","Favorite of the Harem (uncredited)",ACTOR
+156429,tm22806,"Ethel Grey Terry","Favorite of the Harem (uncredited)",ACTOR
+155938,tm22806,"Francis Carpenter","Child in Epilogue (uncredited)",ACTOR
+580941,tm22806,"Virginia Lee Corbin","Child in Epilogue (uncredited)",ACTOR
+580869,tm22806,"Peggy Cartwright","Little Girl (uncredited)",ACTOR
+13367,tm22806,"Gino Corrado","The Runner (uncredited)",ACTOR
+138538,tm22806,"William Courtright","Second Pharisee (uncredited)",ACTOR
+21170,tm22806,"Erich von Stroheim","Second Pharisee (uncredited)",ACTOR
+90205,tm22806,"Max Davidson","Kindly Neighbor (uncredited)",ACTOR
+136048,tm22806,"Douglas Fairbanks","Man on White Horse (uncredited)",ACTOR
+39501,tm22806,"Julia Faye","Bit Role (uncredited)",ACTOR
+585951,tm22806,"Clyde E. Hopkins","Jenkins's Secretary (uncredited)",ACTOR
+586964,tm22806,"Alberta Lee","Wife of The Kindly Neighbor (uncredited)",ACTOR
+175600,tm22806,"Elmo Lincoln","The Mighty Man of Valor (uncredited)",ACTOR
+156415,tm22806,"Loyola O'Connor","Attarea's Slave (uncredited)",ACTOR
+155886,tm22806,"Wallace Reid","Boy Killed in Battle (uncredited)",ACTOR
+220037,tm22806,"Alma Rubens","Girl at the Marriage Market (uncredited)",ACTOR
+151835,tm22806,"Madame Sul-Te-Wan","Girl at the Marriage Market (uncredited)",ACTOR
+74197,tm22806,"George Siegmann","Cyrus (uncredited)",ACTOR
+155932,tm22806,"Raymond Wells","Counselor to Charles IX (uncredited)",ACTOR
+585774,tm22806,"Winifred Westover","The Favorite of Egibi (uncredited)",ACTOR
+53489,tm22806,"David Butler","Babylonian Soldier (uncredited)",ACTOR
+55739,tm22806,"D.W. Griffith",,DIRECTOR
+25652,tm88001,"Edward G. Robinson","Federal Agent Wilson",ACTOR
+74181,tm88001,"Loretta Young","Mary Longstreet",ACTOR
+15246,tm88001,"Orson Welles","Charles Rankin",ACTOR
+45073,tm88001,"Philip Merivale","Judge Adam Longstreet",ACTOR
+74183,tm88001,"Richard Long","Noah Longstreet",ACTOR
+74182,tm88001,"Konstantin Shayne","Konrad Meinike",ACTOR
+74184,tm88001,"Byron Keith","Dr. Jeffrey Lawrence",ACTOR
+62828,tm88001,"Billy House","Mr. Potter",ACTOR
+15620,tm88001,"Martha Wentworth",Sara,ACTOR
+15259,tm88001,"Erskine Sanford","Party Guest (uncredited)",ACTOR
+20041,tm88001,"Theodore Gottlieb","Fairbright (uncredited)",ACTOR
+1032744,tm88001,"David Bond","Student (uncredited)",ACTOR
+27252,tm88001,"Neal Dodd","Minister (uncredited)",ACTOR
+21366,tm88001,"Ethan Laidlaw","Todd, Customer in Potter's Store (uncredited)",ACTOR
+771189,tm88001,"Isabel O'Madigan","Mrs. Lawrence (uncredited)",ACTOR
+106285,tm88001,"Johnny Sands","Jogging Student in Woods (uncredited)",ACTOR
+108231,tm88001,"Pietro Sosso","Mr. Peabody (uncredited)",ACTOR
+15246,tm88001,"Orson Welles",,DIRECTOR
+73323,tm141715,"Lon Chaney","Erik, The Phantom",ACTOR
+73324,tm141715,"Mary Philbin","Christine DaaÃ©",ACTOR
+73325,tm141715,"Norman Kerry","Vicomte Raoul de Chagny",ACTOR
+73326,tm141715,"Arthur Edmund Carewe",Ledoux,ACTOR
+50372,tm141715,"Gibson Gowland","Simon Buquet",ACTOR
+73327,tm141715,"John St. Polis","Comte Philip de Chagny",ACTOR
+73328,tm141715,"Snitz Edwards","Florine Papillon",ACTOR
+73329,tm141715,"Virginia Pearson",Carlotta,ACTOR
+586057,tm141715,"Olive Ann Alcorn","La Sorelli (uncredited)",ACTOR
+608516,tm141715,"Betty Van Allen","Ballerina (uncredited)",ACTOR
+1246079,tm141715,"Betty Arthur","Ballet Dancer (uncredited)",ACTOR
+576234,tm141715,"Joseph Belmont","Stage Manager (uncredited)",ACTOR
+1246170,tm141715,"Alexander Bevani","Mephistopheles (uncredited)",ACTOR
+820785,tm141715,"Earl Gordon Bostwick","Minor Role (uncredited)",ACTOR
+220125,tm141715,"Ethel Broadhurst","Frightened Ballerina (uncredited)",ACTOR
+153727,tm141715,"Edward Cecil","Faust (uncredited)",ACTOR
+106313,tm141715,"Ruth Clifford","Ballerina (uncredited)",ACTOR
+21763,tm141715,"Chester Conklin","Orderly (uncredited)",ACTOR
+1246078,tm141715,"Roy Coulson","The Jester (uncredited)",ACTOR
+581347,tm141715,"Bruce Covington","M. Moncharmin (uncredited)",ACTOR
+206007,tm141715,"Ward Crane","Count Ruboff (uncredited)",ACTOR
+37133,tm141715,"George Davis","Guard at Christine's Door (uncredited)",ACTOR
+1246070,tm141715,"Madame Fiorenza","Mme. Giry - Keeper of the Box (uncredited)",ACTOR
+1246086,tm141715,"Alan George","Undetermined Secondary Role (uncredited)",ACTOR
+206014,tm141715,"Cesare Gravina","Manager (uncredited)",ACTOR
+156107,tm141715,"William Humphrey","M. Debienne (uncredited)",ACTOR
+73330,tm141715,"Carla Laemmle","Prima Ballerina (uncredited)",ACTOR
+586397,tm141715,"Grace Marvin","Martha (uncredited)",ACTOR
+50963,tm141715,"John Miljan","Valentin (uncredited)",ACTOR
+1246104,tm141715,"Edith Murgatroyd","Mama Valerius (uncredited)",ACTOR
+156111,tm141715,"Templar Saxe","Bit Role in Faust (uncredited)",ACTOR
+574106,tm141715,"Bernard Siegel","Joseph Buquet (uncredited)",ACTOR
+1246106,tm141715,"William Tyroler","Director of Opera Orchestra (uncredited)",ACTOR
+584002,tm141715,"Vola Vale","Ballerina / Christines Maid (uncredited)",ACTOR
+14785,tm141715,"Ellinor Vanderveer","Operagoer (uncredited)",ACTOR
+790582,tm141715,"Anton Vaverka","Prompter (uncredited)",ACTOR
+1246126,tm141715,"Josephine Haynes Webster","Ballerina (uncredited)",ACTOR
+584431,tm141715,"George B. Williams","M. Ricard (uncredited)",ACTOR
+557408,tm141715,"Ed Wolff","Mob Leader at Finale (uncredited)",ACTOR
+73331,tm141715,"Rupert Julian",,DIRECTOR
+132380,tm112415,"Dorothy Short",Mary,ACTOR
+175615,tm112415,"Kenneth Craig",Bill,ACTOR
+574115,tm112415,"Lillian Miles",Blanche,ACTOR
+132381,tm112415,"Dave O'Brien",Ralph,ACTOR
+151506,tm112415,"Thelma White",Mae,ACTOR
+65333,tm112415,"Carleton Young",Jack,ACTOR
+572113,tm112415,"Warren McCollum",Jimmy,ACTOR
+576079,tm112415,"Patricia Royale",Agnes,ACTOR
+175617,tm112415,"Joseph Forte","Dr. Carroll",ACTOR
+207270,tm112415,"Harry Harvey Jr.",Junior,ACTOR
+21767,tm112415,"Richard Alexander","Pete Daley (uncredited)",ACTOR
+130991,tm112415,"Bob Burns","Juror (uncredited)",ACTOR
+13375,tm112415,"Lester Dorr","Joe the Bartender (uncredited)",ACTOR
+134165,tm112415,"Phil Dunham","Juror (uncredited)",ACTOR
+27254,tm112415,"Edward Earle","FBI Investigator Mr. Wayne (uncredited)",ACTOR
+93477,tm112415,"Frank LaRue","Bill's Lawyer (uncredited)",ACTOR
+60957,tm112415,"Edward LeSaint","Judge (uncredited)",ACTOR
+27297,tm112415,"Mary MacLaren","Mrs. Lane (uncredited)",ACTOR
+41713,tm112415,"Walter McGrail","The Boss (uncredited)",ACTOR
+60954,tm112415,"Edmund Mortimer","Henry Harper (uncredited)",ACTOR
+27315,tm112415,"Frank O'Connor","Jury Foreman (uncredited)",ACTOR
+134177,tm112415,"William Royle","Prosecuting Attorney (uncredited)",ACTOR
+151137,tm112415,"Marin Sais","Mrs. Harper (uncredited)",ACTOR
+60253,tm112415,"Forrest Taylor","Blanche's Lawyer (uncredited)",ACTOR
+175616,tm112415,"Dan Wolheim","Pete Daley (uncredited)",ACTOR
+152780,tm112415,"Louis J. Gasnier",,DIRECTOR
+57716,tm2838,"Joel McCrea","Robert Rainsford",ACTOR
+28652,tm2838,"Fay Wray","Eve Trowbridge",ACTOR
+28653,tm2838,"Robert Armstrong","Martin Trowbridge",ACTOR
+72246,tm2838,"Leslie Banks","Count Zaroff",ACTOR
+28654,tm2838,"Noble Johnson",Ivan,ACTOR
+28655,tm2838,"Steve Clemente",Tartar,ACTOR
+152108,tm2838,"William B. Davidson","Captain (uncredited)",ACTOR
+47823,tm2838,"Oscar 'Dutch' Hendrian","Tartar Servant (uncredited)",ACTOR
+28656,tm2838,"James Flavin","First Mate on Yacht (uncredited)",ACTOR
+153624,tm2838,"Hale Hamilton","Bill Woodman (uncredited)",ACTOR
+27334,tm2838,"Landers Stevens","Yacht Passenger 'Doc' (uncredited)",ACTOR
+62831,tm2838,"Irving Pichel",,DIRECTOR
+28661,tm2838,"Ernest B. Schoedsack",,DIRECTOR
+151228,tm155610,"Merle Oberon","Catherine 'Cathy' Earnshaw Linton",ACTOR
+31393,tm155610,"Laurence Olivier",Heathcliff,ACTOR
+16485,tm155610,"David Niven","Edgar Linton",ACTOR
+37073,tm155610,"Flora Robson","Ellen Dean",ACTOR
+51911,tm155610,"Donald Crisp","Dr. Kenneth",ACTOR
+49056,tm155610,"Geraldine Fitzgerald","Isabella Linton",ACTOR
+49506,tm155610,"Hugh Williams","Hindley Earnshaw",ACTOR
+56298,tm155610,"Leo G. Carroll",Joseph,ACTOR
+74322,tm155610,"Miles Mander",Lockwood,ACTOR
+44210,tm155610,"Cecil Kellaway",Earnshaw,ACTOR
+349119,tm155610,"Cecil Humphreys","Judge Linton",ACTOR
+573062,tm155610,"Sarita Wooton","Cathy as a Child",ACTOR
+573061,tm155610,"Rex Downing","Heathcliff as a Child",ACTOR
+154606,tm155610,"Douglas Scott","Hindley as a Child",ACTOR
+57382,tm155610,"Frank Benson","Heathcliff Servant (uncredited)",ACTOR
+296911,tm155610,"Romaine Callender","Robert (uncredited)",ACTOR
+13365,tm155610,"Richard Clucas","Little Boy (uncredited)",ACTOR
+103786,tm155610,"Vernon Downing","Giles (uncredited)",ACTOR
+573066,tm155610,"Alice Ehlers","Madame Ehlers (uncredited)",ACTOR
+110671,tm155610,"Harold Entwistle","Beadle (uncredited)",ACTOR
+568169,tm155610,"Peter Gowland","Dancer (uncredited)",ACTOR
+155418,tm155610,"Helena Grant","Miss Hudkins (uncredited)",ACTOR
+33003,tm155610,"Sam Harris","Party Guest / Wedding Guest (uncredited)",ACTOR
+573063,tm155610,"Susanne Leach","Guest (uncredited)",ACTOR
+573064,tm155610,"Tommy Martin","Little Boy (uncredited)",ACTOR
+60954,tm155610,"Edmund Mortimer","Party Guest (uncredited)",ACTOR
+571160,tm155610,"Schuyler Standish","Little Boy (uncredited)",ACTOR
+13417,tm155610,"William Stelling","Dancer (uncredited)",ACTOR
+573065,tm155610,"Diane Williams","Little Girl (uncredited)",ACTOR
+50384,tm155610,"Eric Wilton","Linton Servant (uncredited)",ACTOR
+210959,tm155610,"Philip Winter","Cathy's Partner (uncredited)",ACTOR
+13717,tm155610,"William Wyler",,DIRECTOR
+25652,tm3781,"Edward G. Robinson","Professor Richard Wanley",ACTOR
+56295,tm3781,"Joan Bennett","Alice Reed",ACTOR
+25634,tm3781,"Raymond Massey","Dist. Attorney Frank Lalor",ACTOR
+598544,tm3781,"Edmund Breon","Dr. Michael Barkstane",ACTOR
+55257,tm3781,"Dan Duryea","Heidt / Tim, the Doorman",ACTOR
+56559,tm3781,"Thomas E. Jackson","Inspector Jackson",ACTOR
+61172,tm3781,"Dorothy Peterson","Mrs. Wanley",ACTOR
+27292,tm3781,"Arthur Loft","Claude Mazard / Frank Howard / Charlie the Hatcheck Man",ACTOR
+153409,tm3781,"Frank Dawson","Collins, the Steward",ACTOR
+24987,tm3781,"Robert Blake","Dickie Wanley (uncredited)",ACTOR
+66189,tm3781,"Frances Morris","Stenographer (uncredited)",ACTOR
+17301,tm3781,"Iris Adrian","Streetwalker (uncredited)",ACTOR
+14794,tm3781,"Brandon Beach","Man at Club (uncredited)",ACTOR
+566751,tm3781,"Paul Bradley","Man at Club (uncredited)",ACTOR
+33011,tm3781,"James Carlisle","Man at Club (uncredited)",ACTOR
+568828,tm3781,"Fred Hueston","Man at Club (uncredited)",ACTOR
+58337,tm3781,"Sheldon Jett","Man at Club (uncredited)",ACTOR
+58330,tm3781,"Jack W. Johnston","Man at Club (uncredited)",ACTOR
+133900,tm3781,"Charles Meakin","Man at Club (uncredited)",ACTOR
+153025,tm3781,"Harold Minjir","Man at Club (uncredited)",ACTOR
+47826,tm3781,"Wedgwood Nowell","Man at Club (uncredited)",ACTOR
+35519,tm3781,"Louis Payne","Man at Club (uncredited)",ACTOR
+13413,tm3781,"Scott Seaton","Man at Club (uncredited)",ACTOR
+27329,tm3781,"Wyndham Standing","Man at Club (uncredited)",ACTOR
+27331,tm3781,"Larry Steers","Man at Club (uncredited)",ACTOR
+90204,tm3781,"Don Brodie","Onlooker at Gallery (uncredited)",ACTOR
+153324,tm3781,"Frank Melton","Onlooker at Gallery (uncredited)",ACTOR
+63136,tm3781,"Claire Carleton","Blonde (uncredited)",ACTOR
+13362,tm3781,"Eddy Chandler","Police Driver (uncredited)",ACTOR
+71921,tm3781,"Tom Dillon","Police Officer Dillon (uncredited)",ACTOR
+569683,tm3781,"Freddie Chapman","Boy with Mother (uncredited)",ACTOR
+27242,tm3781,"Alec Craig","Garage Man (uncredited)",ACTOR
+219819,tm3781,"Hal Craig","News Vendor (uncredited)",ACTOR
+27249,tm3781,"Joe Devlin","Toll Collector on Henry Hudson Parkway (uncredited)",ACTOR
+28512,tm3781,"Ralph Dunn","Traffic Cop (uncredited)",ACTOR
+14166,tm3781,"Bess Flowers","Bar Patron (uncredited)",ACTOR
+27262,tm3781,"Jack Gardner","Fred, the District Attorney's Chauffeur (uncredited)",ACTOR
+57850,tm3781,"Jack Gargan","Club Steward (uncredited)",ACTOR
+220055,tm3781,"James Harrison","Club Steward (uncredited)",ACTOR
+28908,tm3781,"Fred Graham","Motorcycle Cop (uncredited)",ACTOR
+134055,tm3781,"Tom Hanlon","Radio Announcer (uncredited)",ACTOR
+27270,tm3781,"Harry Hayden","Pharmacist (uncredited)",ACTOR
+27281,tm3781,"Donald Kerr","First Elevator Operator (uncredited)",ACTOR
+22485,tm3781,"Frank McLure","Elevator Operator (uncredited)",ACTOR
+96558,tm3781,"George McFarland","Boy Scout who finds Mazard's Body (uncredited)",ACTOR
+28895,tm3781,"Frank Mills","Charlie the Garage Helper (uncredited)",ACTOR
+57855,tm3781,"Anne O'Neal","Mother by Elevator (uncredited)",ACTOR
+155489,tm3781,"Dave Pepper","Club Member (uncredited)",ACTOR
+22465,tm3781,"Fred Rapport","Club Manager (uncredited)",ACTOR
+14767,tm3781,"Alexander Pollard","William the Headwaiter (uncredited)",ACTOR
+46787,tm3781,"Arthur Space","Captain Kennedy (uncredited)",ACTOR
+1164845,tm3781,"Anne Loos",Stenographer,ACTOR
+20266,tm3781,"Fritz Lang",,DIRECTOR
+21174,tm3541,"Buster Keaton","William 'Willie' Canfield Jr.",ACTOR
+34479,tm3541,"Ernest Torrence","William 'Steamboat Bill' Canfield Sr.",ACTOR
+34478,tm3541,"Tom McGuire","John James 'J.J.' King",ACTOR
+34480,tm3541,"Marion Byron","J.J. King's Daughter Kitty",ACTOR
+584639,tm3541,"Tom Lewis","First and Last Mate Tom Carter",ACTOR
+34481,tm3541,"James T. Mack","Minister (uncredited)",ACTOR
+24730,tm3541,"Charles Reisner",,DIRECTOR
+21174,tm3541,"Buster Keaton",,DIRECTOR
+33315,tm82560,"Bette Davis","Regina Hubbard Giddens",ACTOR
+61147,tm82560,"Herbert Marshall","Horace Giddens",ACTOR
+21803,tm82560,"Teresa Wright","Alexandra "Zan"" Giddens"",ACTOR
+92554,tm82560,"Richard Carlson","David Hewitt",ACTOR
+55257,tm82560,"Dan Duryea","Leo Hubbard",ACTOR
+34172,tm82560,"Patricia Collinge","Birdie Hubbard",ACTOR
+103928,tm82560,"Charles Dingle","Ben Hubbard",ACTOR
+57464,tm82560,"Carl Benton Reid","Oscar Hubbard",ACTOR
+566278,tm82560,"Jessica Grayson",Addie,ACTOR
+26875,tm82560,"John Marriott",Cal,ACTOR
+47773,tm82560,"Russell Hicks","William Marshall",ACTOR
+61641,tm82560,"Lucien Littlefield",Manders,ACTOR
+34178,tm82560,"Virginia Brissac","Mrs. Hewitt",ACTOR
+571022,tm82560,"Terry Nibert",Julia,ACTOR
+570702,tm82560,"Henry 'Hot Shot' Thomas",Harold,ACTOR
+27308,tm82560,"Charles R. Moore",Simon,ACTOR
+152924,tm82560,"Hooper Atchley","Party Guest (uncredited)",ACTOR
+27220,tm82560,"Al Bridge","Dawson (uncredited)",ACTOR
+71562,tm82560,"Tex Driscoll","Bank Customer (uncredited)",ACTOR
+27266,tm82560,"Jesse Graves","Headwaiter (uncredited)",ACTOR
+134186,tm82560,"Lew Kelly","Train Companion (uncredited)",ACTOR
+27323,tm82560,"Henry Roquemore","Depositor (uncredited)",ACTOR
+150870,tm82560,"Kenny Washington","Servant (uncredited)",ACTOR
+13717,tm82560,"William Wyler",,DIRECTOR
+50957,tm64852,"Barbara Stanwyck","Stella Dallas",ACTOR
+21993,tm64852,"John Boles","Stephen Dallas",ACTOR
+128868,tm64852,"Anne Shirley","Laurel "Lorrie"" Dallas"",ACTOR
+13304,tm64852,"Barbara O'Neil","Helen Morrison",ACTOR
+20169,tm64852,"Alan Hale","Ed Munn",ACTOR
+65181,tm64852,"Marjorie Main","Mrs. Martin",ACTOR
+154059,tm64852,"George Walcott","Charlie Martin",ACTOR
+151346,tm64852,"Ann Shoemaker","Miss Margaret Phillibrown",ACTOR
+71549,tm64852,"Tim Holt","Richard Grosvenor III",ACTOR
+32993,tm64852,"Nella Walker","Mrs. Grosvenor",ACTOR
+575318,tm64852,"Bruce Satterlee","Cornelius 'Con' Morrison",ACTOR
+127301,tm64852,"Jimmy Butler","Con Morrison - Grown Up",ACTOR
+152862,tm64852,"Jack Egger","John Morrison",ACTOR
+27198,tm64852,"Dickie Jones","Lee Morrison",ACTOR
+95209,tm64852,"Jessie Arnold","Ed's Landlady (uncredited)",ACTOR
+27221,tm64852,"Harlan Briggs","Mr. Beamer (uncredited)",ACTOR
+21779,tm64852,"Heinie Conklin","Train Passenger (uncredited)",ACTOR
+59173,tm64852,"Laraine Day","Girl at Soda Shop / Train Passenger (uncredited)",ACTOR
+27196,tm64852,"Ann Doran","Undetermined Secondary Role (uncredited)",ACTOR
+13375,tm64852,"Lester Dorr","Man on Train (uncredited)",ACTOR
+152129,tm64852,"Etta McDaniel","Agnes (uncredited)",ACTOR
+65718,tm64852,"Forbes Murray","Stephen's Business Friend (uncredited)",ACTOR
+137466,tm64852,"Lynne Roberts","Student (uncredited)",ACTOR
+27330,tm64852,"Paul Stanton","Arthur W. Morley (uncredited)",ACTOR
+22474,tm64852,"Bert Stevens","Guest at River Club (uncredited)",ACTOR
+47764,tm64852,"Lillian Yarbo","Gladys (uncredited)",ACTOR
+79611,tm64852,"King Vidor",,DIRECTOR
+27571,tm120863,"Walter Huston","Sam Dodsworth",ACTOR
+86120,tm120863,"Ruth Chatterton","Fran Dodsworth",ACTOR
+30858,tm120863,"Paul Lukas","Arnold Iselin",ACTOR
+27563,tm120863,"Mary Astor","Edith Cortright",ACTOR
+16485,tm120863,"David Niven","Captain Clyde Lockert",ACTOR
+14750,tm120863,"Gregory Gaye","Baron Kurt Von Obersdorf",ACTOR
+60610,tm120863,"Maria Ouspenskaya","Baroness Von Obersdorf",ACTOR
+49044,tm120863,"Odette Myrtil","RenÃ©e de Penable",ACTOR
+40704,tm120863,"Spring Byington","Matey Pearson",ACTOR
+27221,tm120863,"Harlan Briggs","Tubby Pearson",ACTOR
+86121,tm120863,"Kathryn Marlowe","Emily Dodsworth McKee",ACTOR
+57832,tm120863,"John Payne","Harry McKee",ACTOR
+21776,tm120863,"Bobby Barber","Italian Taxi Driver (Uncredited)",ACTOR
+27215,tm120863,"Wilson Benge","Steward on Queen Mary (Uncredited)",ACTOR
+22001,tm120863,"Ted Billings","Man on Railroad Platform (Uncredited)",ACTOR
+14727,tm120863,"Eugene Borden","Baggage Carrier at Train Station (Uncredited)",ACTOR
+13361,tm120863,"Horace B. Carpenter","Motor Company Employee (Uncredited)",ACTOR
+13367,tm120863,"Gino Corrado","American Express Clerk (Uncredited)",ACTOR
+14737,tm120863,"Jean De Briac","Official (Uncredited)",ACTOR
+58335,tm120863,"Helen Dickson","Tourist (Uncredited)",ACTOR
+35507,tm120863,"Jack George","Orchestra Leader in Vienna (Uncredited)",ACTOR
+83139,tm120863,"Fred Malatesta","Waiter (Uncredited)",ACTOR
+123943,tm120863,"Beatrice Maude","Mary (Uncredited)",ACTOR
+65340,tm120863,"Louis Mercier","French Railroad Conductor (Uncredited)",ACTOR
+22011,tm120863,"Inez Palange","Teresa (Uncredited)",ACTOR
+100259,tm120863,"John Picorri","Clerk (Uncredited)",ACTOR
+61129,tm120863,"Pat Somerset","Englishman (Uncredited)",ACTOR
+13717,tm120863,"William Wyler","Violin Player in Dance Orchestra (Uncredited)",ACTOR
+33003,tm120863,"Sam Harris","Ship Passenger (Uncredited)",ACTOR
+571016,tm120863,"John Barclay","Ship Passenger (Uncredited)",ACTOR
+22467,tm120863,"Steve Carruthers","Ship Passenger (Uncredited)",ACTOR
+14166,tm120863,"Bess Flowers","Ship Passenger (Uncredited)",ACTOR
+1446158,tm120863,"J.C. Fowler","Ship Passenger (Uncredited)",ACTOR
+22487,tm120863,"Herschel Graham","Ship Passenger (Uncredited)",ACTOR
+1686290,tm120863,"Loretta Russell","Ship Passenger (Uncredited)",ACTOR
+74821,tm120863,"Alphonse Martell","Ship Passenger (Uncredited)",ACTOR
+60954,tm120863,"Edmund Mortimer","Ship Passenger (Uncredited)",ACTOR
+49085,tm120863,"Harold Miller","Ship Passenger (Uncredited)",ACTOR
+33400,tm120863,"George Nardelli","Ship Passenger (Uncredited)",ACTOR
+13424,tm120863,"Dale van Sickel","Ship Passenger (Uncredited)",ACTOR
+13717,tm120863,"William Wyler",,DIRECTOR
+25629,tm66903,"John Wayne","Sgt. John M. Stryker",ACTOR
+60203,tm66903,"John Agar","PFC Peter T. 'Pete' Conway",ACTOR
+86048,tm66903,"Adele Mara","Allison Bromley",ACTOR
+60198,tm66903,"Forrest Tucker","PFC Al J. Thomas",ACTOR
+94585,tm66903,"Wally Cassell","PFC Benny A. Regazzi",ACTOR
+72483,tm66903,"James Brown","PFC Charlie Bass",ACTOR
+57720,tm66903,"Richard Webb","PFC Dan 'Handsome' Shipley",ACTOR
+58052,tm66903,"Arthur Franz","Cpl. Robert C. Dunne / Narrator",ACTOR
+55428,tm66903,"Julie Bishop",Mary,ACTOR
+219676,tm66903,"James Holden","PFC 'Farmer' Soames",ACTOR
+536626,tm66903,"Peter Coe","PFC George Hellenpolis",ACTOR
+35200,tm66903,"Richard Jaeckel","PFC Frank Flynn",ACTOR
+62611,tm66903,"William Murphy","PFC Eddie Flynn",ACTOR
+59959,tm66903,"George Tyne","PFC Hart S. Harris",ACTOR
+46600,tm66903,"Hal Baylor","Pvt. J.E. 'Ski' Choynski",ACTOR
+34186,tm66903,"John McGuire","Capt. Joyce",ACTOR
+60474,tm66903,"Martin Milner","Pvt. Mike McHugh",ACTOR
+636866,tm66903,"Leonard Gumley","Pvt. Sid Stein",ACTOR
+29575,tm66903,"William Self","Pvt. L.D. Fowler Jr.",ACTOR
+636865,tm66903,"David M. Shoup","Colonel D.M. Shoup",ACTOR
+636864,tm66903,"H.P. Crowe","Lt. Col. H.P. Crowe",ACTOR
+636863,tm66903,"Harold G. Schrier","Captain Harold G. Schrier",ACTOR
+636862,tm66903,"Rene A. Gagnon","PFC Rene A. Gagnon",ACTOR
+636861,tm66903,"Ira H. Hayes","PFC Ira H. Hayes",ACTOR
+636860,tm66903,"John H. Bradley","PM3C John H. Bradley",ACTOR
+137612,tm66903,"Conrad Binyon","Marine (uncredited)",ACTOR
+73636,tm66903,"David Clarke","Wounded Marine (uncredited)",ACTOR
+636859,tm66903,"Fred A. Datig","Marine (uncredited)",ACTOR
+568194,tm66903,"Bruce Edwards","Marine (uncredited)",ACTOR
+52785,tm66903,"Dorothy Ford","Tall Girl (uncredited)",ACTOR
+569711,tm66903,"Carole Gallagher","USO Woman (uncredited)",ACTOR
+28908,tm66903,"Fred Graham","Officer (uncredited)",ACTOR
+83039,tm66903,"Don Haggerty","Colonel in Staff Car (uncredited)",ACTOR
+563548,tm66903,"Gil Herman","Lt. Baker (uncredited)",ACTOR
+444884,tm66903,"William Hudson","Marine (uncredited)",ACTOR
+88997,tm66903,"I. Stanford Jolley","Forrestal (uncredited)",ACTOR
+27198,tm66903,"Dickie Jones","Scared Marine (uncredited)",ACTOR
+27287,tm66903,"Billy Lechner","Marine (uncredited)",ACTOR
+82262,tm66903,"Mickey McCardle","Marine (uncredited)",ACTOR
+559993,tm66903,"Roger McGee","Sailor (uncredited)",ACTOR
+565937,tm66903,"Al Murphy","Bartender (uncredited)",ACTOR
+27315,tm66903,"Frank O'Connor","Waiter in Bar (uncredited)",ACTOR
+636858,tm66903,"Judy Sochor","USO Woman (uncredited)",ACTOR
+546147,tm66903,"Glen Vernon","Marine (uncredited)",ACTOR
+636857,tm66903,"Steve Wayne","Marine (uncredited)",ACTOR
+69526,tm66903,"Dick Wessel","Grenade Instructor (uncredited)",ACTOR
+28903,tm66903,"Ted White","Marine (uncredited)",ACTOR
+636856,tm66903,"John Whitney","Lt. Thompson (uncredited)",ACTOR
+636855,tm66903,"Joy Windsor","USO Woman (uncredited)",ACTOR
+106785,tm66903,"Allan Dwan",,DIRECTOR
+54401,tm74259,"Gary Cooper","Henry Louis 'Lou' Gehrig",ACTOR
+21803,tm74259,"Teresa Wright","Eleanor Twitchell",ACTOR
+69182,tm74259,"Babe Ruth","Babe Ruth",ACTOR
+25632,tm74259,"Walter Brennan","Sam Blake",ACTOR
+55257,tm74259,"Dan Duryea","Hank Hanneman",ACTOR
+229637,tm74259,"Elsa Janssen","Christina 'Mom' Gehrig",ACTOR
+14780,tm74259,"Ludwig StÃ¶ssel","Henry 'Pop' Gehrig",ACTOR
+151983,tm74259,"Virginia Gilmore","Myra Tinsley",ACTOR
+945097,tm74259,"Bill Dickey","Bill Dickey",ACTOR
+69183,tm74259,"Ernie Adams","Miller Huggins",ACTOR
+27186,tm74259,"Pierre Watkin","Mr. Twitchell",ACTOR
+37836,tm74259,"Harry Harvey","Joe McCarthy",ACTOR
+1077216,tm74259,"Mark Koenig","Mark Koenig",ACTOR
+570231,tm74259,"Bill Stern","Bill Stern",ACTOR
+71902,tm74259,"Addison Richards",Coach,ACTOR
+97868,tm74259,"Hardie Albright","Van Tuyl",ACTOR
+34182,tm74259,"Edward Fielding","Clinic Doctor",ACTOR
+98827,tm74259,"George Lessey","Mayor of New Rochelle",ACTOR
+70031,tm74259,"Edgar Barrier","Hospital Doctor",ACTOR
+49041,tm74259,"Douglas Croft","Lou Gehrig as a Boy",ACTOR
+82894,tm74259,"Gene Collins","Billy (Age 8)",ACTOR
+152976,tm74259,"David Holt","Billy (Age 17)",ACTOR
+154703,tm74259,Veloz,"Specialty Dancer (as Veloz and Yolanda)",ACTOR
+569752,tm74259,Yolanda,"Specialty Dancer (as Veloz and Yolanda)",ACTOR
+13381,tm74259,"Frank Faylen","Yankee Third Base Coach (uncredited)",ACTOR
+25663,tm74259,"Pat Flaherty","Yankee Ballplayer (uncredited)",ACTOR
+27265,tm74259,"Mary Gordon","Maid (uncredited)",ACTOR
+22464,tm74259,"Colin Kenny","Yankee Player on Train (uncredited)",ACTOR
+36160,tm74259,"Jack Carr",Plumber,ACTOR
+13440,tm74259,"Sam Wood",,DIRECTOR
+25634,tm112424,"Raymond Massey","John Cabal / Oswald Cabal",ACTOR
+546554,tm112424,"Edward Chapman","Pippa Passworthy / Raymond Passworthy",ACTOR
+15795,tm112424,"Ralph Richardson","The Boss",ACTOR
+251587,tm112424,"Margaretta Scott","Roxana / Rowena",ACTOR
+36495,tm112424,"Cedric Hardwicke",Theotocopulos,ACTOR
+576078,tm112424,"Maurice Braddell","Dr. Harding",ACTOR
+559274,tm112424,"Sophie Stewart","Mrs. Cabal",ACTOR
+33334,tm112424,"Derrick De Marney","Richard Gordon",ACTOR
+72946,tm112424,"Ann Todd","Mary Gordon",ACTOR
+576075,tm112424,"Pearl Argyle","Catherine Cabal",ACTOR
+569511,tm112424,"Kenneth Villiers","Maurice Passworthy",ACTOR
+570664,tm112424,"Ivan Brandt","Morden Mitani",ACTOR
+1257108,tm112424,"Anne McLaren","The Child",ACTOR
+152465,tm112424,"Patricia Hilliard","Janet Gordon",ACTOR
+71855,tm112424,"Charles Carson","Great Grandfather",ACTOR
+11665,tm112424,"Patrick Barr","World Transport Official (uncredited)",ACTOR
+155098,tm112424,"Noel Brophy","Irishman (uncredited)",ACTOR
+81454,tm112424,"John Clements","The Airman (uncredited)",ACTOR
+137947,tm112424,"Anthony Holles","Simon Burton (uncredited)",ACTOR
+105786,tm112424,"Allan Jeayes","Mr. Cabal (uncredited)",ACTOR
+1257095,tm112424,"Pickles Livingston","Horrie Passworthy (uncredited)",ACTOR
+5902,tm112424,"George Sanders","Celestial Body (uncredited)",ACTOR
+35474,tm112424,"Abraham Sofaer","The Jew (uncredited)",ACTOR
+11110,tm112424,Terry-Thomas,"Man of the Future (uncredited)",ACTOR
+13438,tm112424,"William Cameron Menzies",,DIRECTOR
+16353,tm58979,"JosÃ© Ferrer","Cyrano de Bergerac",ACTOR
+224830,tm58979,"Mala Powers",Roxane,ACTOR
+18611,tm58979,"William Prince","Christian de Neuvillette",ACTOR
+103312,tm58979,"Morris Carnovsky","Le Bret",ACTOR
+523520,tm58979,"Ralph Clanton","Antoine Comte de Guiche",ACTOR
+57259,tm58979,"Lloyd Corrigan",Ragueneau,ACTOR
+84206,tm58979,"Virginia Farmer",Duenna,ACTOR
+70031,tm58979,"Edgar Barrier","Cardinal Richelieu",ACTOR
+93673,tm58979,"Elena Verdugo","Orange Girl",ACTOR
+28906,tm58979,"Albert Cavens","Vicomte de Valvert",ACTOR
+50369,tm58979,"Arthur Blake",Montfleury,ACTOR
+28777,tm58979,"Don Beddoe","The Meddler",ACTOR
+57838,tm58979,"Percy Helton",Bellerose,ACTOR
+44213,tm58979,"Virginia Christine","Sister Marthe",ACTOR
+862131,tm58979,"Gil Warren",Doctor,ACTOR
+15254,tm58979,"Philip Van Zandt","Man with Gazette",ACTOR
+17010,tm58979,"Eric Sinclair",Guardsman,ACTOR
+563672,tm58979,"Richard Avonde",Marquis,ACTOR
+84205,tm58979,"Paul Dubov",Cadet,ACTOR
+62603,tm58979,"John Crawford",Cadet,ACTOR
+33391,tm58979,"Jerry Paris",Cadet,ACTOR
+35509,tm58979,"Robin Hughes",Cadet,ACTOR
+151311,tm58979,"Francis Pierlot","Capuchin Monk",ACTOR
+49661,tm58979,"Michael Gordon",,DIRECTOR
+25652,tm18385,"Edward G. Robinson","Christopher Cross",ACTOR
+56295,tm18385,"Joan Bennett","Katharine 'Kitty' March",ACTOR
+55257,tm18385,"Dan Duryea","Johnny Prince",ACTOR
+40707,tm18385,"Margaret Lindsay","Millie Ray",ACTOR
+71916,tm18385,"Jess Barker","David Janeway",ACTOR
+58704,tm18385,"Rosalind Ivan","Adele Cross",ACTOR
+71917,tm18385,"Charles Kemper","Patch-eye Higgins",ACTOR
+71918,tm18385,"Anita Sharp-Bolster","Mrs. Michaels",ACTOR
+47762,tm18385,"Samuel S. Hinds","Charles Pringle",ACTOR
+66594,tm18385,"Vladimir Sokoloff","Pop LeJon",ACTOR
+27292,tm18385,"Arthur Loft",Dellarowe,ACTOR
+47773,tm18385,"Russell Hicks","J.J. Hogarth",ACTOR
+71890,tm18385,"Richard Abbott","Critic at Gallery (uncredited)",ACTOR
+71919,tm18385,"Rodney Bell","Barney (uncredited)",ACTOR
+62987,tm18385,"Richard Cramer","Principal Keeper (uncredited)",ACTOR
+47796,tm18385,"Dick Curtis","Detective (uncredited)",ACTOR
+71920,tm18385,"Tom Daly","Penny - Bartender (uncredited)",ACTOR
+47770,tm18385,"Edgar Dearing","Policeman (uncredited)",ACTOR
+27249,tm18385,"Joe Devlin","Joe Williams, Morning World (uncredited)",ACTOR
+71921,tm18385,"Tom Dillon","Policeman (uncredited)",ACTOR
+71922,tm18385,"William Hall","Policeman (uncredited)",ACTOR
+71923,tm18385,"Robert Malcolm","Policeman (uncredited)",ACTOR
+27252,tm18385,"Neal Dodd","Priest (uncredited)",ACTOR
+28512,tm18385,"Ralph Dunn","First Policeman in Park (uncredited)",ACTOR
+71924,tm18385,"Fred Essler","Marchetti (uncredited)",ACTOR
+60615,tm18385,"Lance Fuller","Minor Role (uncredited)",ACTOR
+27264,tm18385,"Gus Glassmire","Employee (uncredited)",ACTOR
+71925,tm18385,"Sherry Hall","Employee (uncredited)",ACTOR
+20176,tm18385,"Milton Kibbee","Employee (uncredited)",ACTOR
+49082,tm18385,"Ralph Littlefield","Employee (uncredited)",ACTOR
+570700,tm18385,"Howard M. Mitchell","Employee (uncredited)",ACTOR
+29114,tm18385,"Arthur Gould-Porter","Critic at Gallery (uncredited)",ACTOR
+47825,tm18385,"Boyd Irwin","Critic at Gallery (uncredited)",ACTOR
+13384,tm18385,"Chuck Hamilton","Chauffeur (uncredited)",ACTOR
+41679,tm18385,"Herbert Heywood","Bellboy (uncredited)",ACTOR
+56559,tm18385,"Thomas E. Jackson","Chief of Detectives (uncredited)",ACTOR
+31160,tm18385,"Edward Keane","Detective (uncredited)",ACTOR
+69526,tm18385,"Dick Wessel","Detective (uncredited)",ACTOR
+71926,tm18385,"Cy Kendall","Nick (uncredited)",ACTOR
+70369,tm18385,"Fritz Leiber","Evangelist (uncredited)",ACTOR
+27291,tm18385,"George Lloyd","Vince Conway, Ledger (uncredited)",ACTOR
+71927,tm18385,"Lou Lubin","Tiny - Bartender (uncredited)",ACTOR
+71928,tm18385,"George Meader","Holliday (uncredited)",ACTOR
+71929,tm18385,"Horace Murphy","Milkman (uncredited)",ACTOR
+33999,tm18385,"Clarence Muse","Ben - Bank Janitor (uncredited)",ACTOR
+13406,tm18385,"Lee Phelps","First Policeman in Hogarth's Office (uncredited)",ACTOR
+22013,tm18385,"Rose Plumer","Knitting Woman in Lobby (uncredited)",ACTOR
+34188,tm18385,"Constance Purdy","Matron (uncredited)",ACTOR
+60618,tm18385,"Beatrice Roberts","Secretary (uncredited)",ACTOR
+14770,tm18385,"Dewey Robinson","Derelict Saving Cross (uncredited)",ACTOR
+50381,tm18385,"Syd Saylor","Tom Crocker, Evening Globe (uncredited)",ACTOR
+71402,tm18385,"Wallace Scott","Drunk (uncredited)",ACTOR
+33007,tm18385,"Emmett Vogan","Prosecutor (uncredited)",ACTOR
+71930,tm18385,"Matt Willis","Policeman in Hogarth's Office (uncredited)",ACTOR
+20172,tm18385,"Charles C. Wilson","Watchman (uncredited)",ACTOR
+49067,tm18385,"Will Wright","Globe Loan Office Manager (uncredited)",ACTOR
+71931,tm18385,"Amzie Strickland","Woman (uncredited)",ACTOR
+71932,tm18385,"John Barton","Hurdy-Gurdy Man (uncredited)",ACTOR
+20266,tm18385,"Fritz Lang",,DIRECTOR
+45070,tm162994,"Carole Lombard","Jane Mason",ACTOR
+25020,tm162994,"James Stewart","John Horace 'Johnny' Mason",ACTOR
+31440,tm162994,"Charles Coburn","Judge Joseph M. Doolittle",ACTOR
+45074,tm162994,"Lucile Watson","Mrs. Harriet Mason",ACTOR
+41664,tm162994,"Eddie Quillan","Conway (pilot)",ACTOR
+28507,tm162994,"Alma Kruger","SÅ“ur Madeline",ACTOR
+13323,tm162994,"Ward Bond","Jim Hatton",ACTOR
+106309,tm162994,"Louise Beavers",Lily,ACTOR
+13331,tm162994,"Irving Bacon","Newark Radio Operator",ACTOR
+32998,tm162994,"Raymond Bailey","Salt Lake City Hospital Chemist",ACTOR
+573126,tm162994,"Bonnie Belle Barber","John Mason Jr. - Infant",ACTOR
+152762,tm162994,"Donald Briggs","Mr. Carter",ACTOR
+27221,tm162994,"Harlan Briggs",Judge,ACTOR
+93473,tm162994,"Lane Chandler","Ranger on Telephone",ACTOR
+573124,tm162994,"Frederick Chapin","Younger Doolittle",ACTOR
+41704,tm162994,"Russ Clark","Omaha Radio Operator",ACTOR
+134057,tm162994,"Monte Collins",Juror,ACTOR
+49071,tm162994,"James Conaty",Co-Worker,ACTOR
+45076,tm162994,"Esther Dale","Annie - Cook #1",ACTOR
+13316,tm162994,"Harry Davenport","Dr. Healy",ACTOR
+47770,tm162994,"Edgar Dearing","Mounted Policeman",ACTOR
+27248,tm162994,"Harry Depp",Hutch,ACTOR
+13332,tm162994,"Robert Elliott","Airport Operations Manager",ACTOR
+134149,tm162994,"Fern Emmett","Farmer's Wife",ACTOR
+47782,tm162994,"Betty Farrington","Hospital Cashier",ACTOR
+57839,tm162994,"Mary Field","Johns Hopkins technician",ACTOR
+153264,tm162994,"Ruth Gillette","Tipsy Blonde at New Year's Eve Party",ACTOR
+153084,tm162994,"Russell Hopton",Collins,ACTOR
+13330,tm162994,"Olin Howland",Farmer,ACTOR
+20170,tm162994,"Arthur Hoyt","Jury Foreman",ACTOR
+573125,tm162994,"Victor Kilian Jr.","Chicago Radio Operator",ACTOR
+84208,tm162994,"Tom London",Ranger,ACTOR
+573127,tm162994,"Ethel Marical",Nurse,ACTOR
+28509,tm162994,"Edwin Maxwell",Messerschmidt,ACTOR
+34478,tm162994,"Tom McGuire",Bailiff,ACTOR
+27304,tm162994,"James McNamara",Juror,ACTOR
+153646,tm162994,"Carlyle Moore Jr.","North Platte Radio Operator",ACTOR
+573128,tm162994,"Wilhelmina Morris",Nurse,ACTOR
+74814,tm162994,"Jack Mulhall","Rock Springs Radio Operator",ACTOR
+31161,tm162994,"Robert Emmett O'Connor","Harry - Elevator Starter",ACTOR
+573129,tm162994,"Renee Orsell","Hilda - Cook #2",ACTOR
+105983,tm162994,"Garry Owen","Denver Radio Operator",ACTOR
+100259,tm162994,"John Picorri",Juror,ACTOR
+127302,tm162994,"Mickey Rentschler","Office Boy",ACTOR
+58329,tm162994,"Cyril Ring","Office Worker",ACTOR
+110897,tm162994,"Mildred Shay","John Horace Mason's Secretary",ACTOR
+29633,tm162994,"Ivan F. Simpson","Simon - Judge Doolittle's Brother",ACTOR
+137709,tm162994,"Milburn Stone","Newark Official",ACTOR
+2144042,tm162994,"Jackie Taylor","John Mason Jr. - One Year Old",ACTOR
+32993,tm162994,"Nella Walker","Dr. Langham's Nurse-Receptionist",ACTOR
+219911,tm162994,"Ruth Weston","Eunice Doolittle",ACTOR
+63422,tm162994,"Marjorie Wood",Nurse,ACTOR
+132996,tm162994,"Harry Worth","New York Hospital Chemist",ACTOR
+103313,tm162994,"John Cromwell",,DIRECTOR
+136048,tm2721,"Douglas Fairbanks","The Thief of Bagdad",ACTOR
+73328,tm2721,"Snitz Edwards","His Evil Associate",ACTOR
+209235,tm2721,"Charles Belcher","The Holy Man",ACTOR
+581619,tm2721,"Julanne Johnston","The Princess",ACTOR
+224247,tm2721,"SÃ´jin Kamiyama","The Mongol Prince",ACTOR
+152150,tm2721,"Anna May Wong","The Mongol Slave",ACTOR
+88773,tm2721,"Brandon Hurst","The Caliph",ACTOR
+598665,tm2721,"Tote Du Crow","The Soothsayer",ACTOR
+28654,tm2721,"Noble Johnson","The Indian Prince",ACTOR
+577110,tm2721,"Sam Baker","Sworder (uncredited)",ACTOR
+582174,tm2721,"Laska Winter","Slave of the Lute (uncredited)",ACTOR
+584301,tm2721,"Etta Lee","Slave of the Sand Board (uncredited)",ACTOR
+102789,tm2721,"Mathilde Comont","Persian Prince (uncredited)",ACTOR
+152038,tm2721,"Charles Stevens","Persian Prince's Awaker (uncredited)",ACTOR
+30488,tm2721,"Eugene Jackson","Child (uncredited)",ACTOR
+36513,tm2721,"Jesse Lasky Jr.",(uncredited),ACTOR
